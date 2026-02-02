@@ -18,8 +18,8 @@ export default function Footer() {
                       <Image
                         src="/img/logo/ascendiologo.png"
                         alt="Ascendia"
-                        width={180}
-                        height={45}
+                        width={90}
+                        height={90}
                       />
                     </Link>
                   </div>

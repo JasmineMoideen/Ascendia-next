@@ -72,19 +72,21 @@ export default function Hero() {
         <div className="container">
           <div className="row">
             <div className="col-lg-6">
-              <h2>Empowering Innovation Accelerating Global Business</h2>
-              <p className="mb-30 wow fadeInUp" data-wow-delay=".4s">
-                We deliver integrated solutions in AI, business growth, trade,
-                and promotion—turning vision into global value.
-              </p>
+              <div class="hero-content-wrapper">
+                <h2>Empowering Innovation Accelerating Global Business</h2>
+                <p className="mb-30 wow fadeInUp" data-wow-delay=".4s">
+                  We deliver integrated solutions in AI, business growth, trade,
+                  and promotion—turning vision into global value.
+                </p>
 
-              <a
-                href="#0"
-                className="button button-lg radius-50 wow fadeInUp"
-                data-wow-delay=".6s"
-              >
-                Talk to Our Experts <i className="lni lni-chevron-right"></i>
-              </a>
+                <a
+                  href="#0"
+                  className="button button-lg radius-50 wow fadeInUp"
+                  data-wow-delay=".6s"
+                >
+                  Talk to Our Experts <i className="lni lni-chevron-right"></i>
+                </a>
+              </div>
             </div>
             <div className="col-lg-6">
               <Image
