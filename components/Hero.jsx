@@ -72,7 +72,7 @@ export default function Hero() {
         <div className="container">
           <div className="row">
             <div className="col-lg-6">
-              <div class="hero-content-wrapper">
+              <div className="hero-content-wrapper">
                 <h2>Empowering Innovation Accelerating Global Business</h2>
                 <p className="mb-30 wow fadeInUp" data-wow-delay=".4s">
                   We deliver integrated solutions in AI, business growth, trade,
