@@ -12,8 +12,8 @@ import Script from "next/script";
 
 
 export const metadata = {
-  title: "Nova - Bootstrap 5 Template",
-  description: "",
+  title: "Ascendia",
+  description: "Integrated AI, business, trade, and promotion solutions for global growth",
 };
 
 export default function RootLayout({ children }) {
